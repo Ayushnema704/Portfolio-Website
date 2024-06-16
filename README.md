@@ -9,7 +9,6 @@ Welcome to my Portfolio Website project repository! This project was developed d
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -46,17 +45,6 @@ This Portfolio Website serves as a showcase of my skills, projects, and experien
 ## Usage
 
 1. Open the `index.html` file in your preferred web browser to view the Portfolio Website.
-
-## Screenshots
-
-![Home Page](screenshots/home.png)
-*Description of the Home Page screenshot.*
-
-![Projects Section](screenshots/projects.png)
-*Description of the Projects Section screenshot.*
-
-![Contact Section](screenshots/contact.png)
-*Description of the Contact Section screenshot.*
 
 ## Contributing
 
